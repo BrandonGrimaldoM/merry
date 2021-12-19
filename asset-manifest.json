@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/merry/static/css/main.fa5a23c3.css",
+    "main.js": "/merry/static/js/main.cc996ca4.js",
+    "index.html": "/merry/index.html",
+    "main.fa5a23c3.css.map": "/merry/static/css/main.fa5a23c3.css.map",
+    "main.cc996ca4.js.map": "/merry/static/js/main.cc996ca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5a23c3.css",
+    "static/js/main.cc996ca4.js"
+  ]
+}
