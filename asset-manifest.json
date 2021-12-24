@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/merry/static/css/main.fa5a23c3.css",
+    "main.css": "/merry/static/css/main.5157437e.css",
     "main.js": "/merry/static/js/main.cc996ca4.js",
     "index.html": "/merry/index.html",
-    "main.fa5a23c3.css.map": "/merry/static/css/main.fa5a23c3.css.map",
+    "main.5157437e.css.map": "/merry/static/css/main.5157437e.css.map",
     "main.cc996ca4.js.map": "/merry/static/js/main.cc996ca4.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa5a23c3.css",
+    "static/css/main.5157437e.css",
     "static/js/main.cc996ca4.js"
   ]
 }
